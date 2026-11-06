@@ -1,0 +1,8 @@
+{
+  "name": "Vooter Arcade",
+  "description": "Premium multi-game browser gaming platform featuring Ballot Trap, Snake Evolution, Memory Match, Google authentication, cloud progress synchronization, and global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
